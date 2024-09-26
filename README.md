@@ -1,6 +1,7 @@
 # datafun-06-eda
 Custom Project
 
+This project is a custom EDA.  In it I will find a data set and find out what the data says about the applicable area or field.
 
 ## Extra How to Install and Setup Projects
 
