@@ -1,9 +1,12 @@
 # datafun-06-eda
 Custom Project
 
-This project is a custom EDA.  In it I will find a data set and find out what the data says about the applicable area or field.
+This project is a custom EDA.  In it I will be examining seaborns titanic data set and find out what the data says about the passagers.
+```
+https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv
+```
 
-## Extra How to Install and Setup Projects
+##  How to Install and Setup Projects
 
 Create a new repo in Git Hub.  Make sure to include README when creating the new repo.
 
