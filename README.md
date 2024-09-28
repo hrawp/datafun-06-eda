@@ -1,6 +1,9 @@
 # datafun-06-eda
 Custom Project
 
+Anlysis by Aaron Pelton 
+on September 28, 2025
+
 This project is a custom EDA.  In it I will be examining seaborns titanic data set and find out what the data says about the passagers.
 
 https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv
