@@ -2,9 +2,9 @@
 Custom Project
 
 This project is a custom EDA.  In it I will be examining seaborns titanic data set and find out what the data says about the passagers.
-```
+
 https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv
-```
+
 
 ##  How to Install and Setup Projects
 
