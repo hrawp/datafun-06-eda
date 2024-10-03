@@ -1,13 +1,15 @@
 # datafun-06-eda
-Custom Project
-
-Anlysis by Aaron Pelton 
-on September 28, 2025
-
-This project is a custom EDA.  In it I will be examining seaborns titanic data set and find out what the data says about the passagers.
+# Anaylizing the Titanic Survial Record
+## By: Aaron Pelton  
+## Date: September 28, 2024
+## A review of those who lived through the titanic accident. The project examines the ages of survivors and those lost.  
+## The project puts a special intrest in five age groups.  This project also takes a brief view of the different classes the passagners were in.
+## This project is a custom EDA.  In it I will be examining seaborns titanic data set and find out what the data says about the passagers.
 
 https://github.com/mwaskom/seaborn-data/blob/master/titanic.csv
 
+
+## Conclusion: The focus of this project was to look at the data from the lense of age groups while showing the genger and class information with the age groups.  It was very eye opening for me to see how each group was affected and who may have given up a seat for another.
 
 ##  How to Install and Setup Projects
 
